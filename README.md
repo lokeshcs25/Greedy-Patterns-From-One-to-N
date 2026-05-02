@@ -1025,10 +1025,10 @@ Is it a SIMPLE pick-the-best-at-each-step problem?
 
 > Build your complete DSA pattern library:
 
--  [Sliding Window Patterns](https://github.com/lokeshcs25/Sliding-Window-Patterns-From-Zero-to-N)
+-  [Sliding Window Patterns](https://github.com/lokeshcs25/Sliding-Window-Patterns-From-One-to-N)
 -  [Two Pointer Patterns](https://github.com/lokeshcs25/Two-Pointer-Patterns-From-Zero-to-N)
--  [Binary Search Patterns](https://github.com/lokeshcs25/Binary-Search-Patterns-From-Zero-to-N)
--  [Bit Manipulation Patterns](https://github.com/lokeshcs25/Bit-Manipulation-Patterns-From-Zero-to-N)
+-  [Binary Search Patterns](https://github.com/lokeshcs25/Binary-Search-Patterns-From-One-to-N)
+-  [Bit Manipulation Patterns](https://github.com/lokeshcs25/Bit-Manipulation-Patterns-From-One-to-N)
 -  **Greedy Algorithm Patterns** ← You are here
 -   Tree Traversal Patterns — *Coming soon*
 -   Dynamic Programming Patterns — *Coming soon*
